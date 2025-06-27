@@ -1,0 +1,16 @@
+{
+  "robot.language-server.python": "c:\\Users\\Dantas\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "robot.language-server.libraries": ["SeleniumLibrary"],
+  "robot.lint.enabled": true,
+  "robot.variables": {
+    "BROWSER": "chrome"
+  },
+  "python.analysis.extraPaths": [
+    "./keywords",
+    "./resources"
+  ],
+  "[robot]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  }
+}
