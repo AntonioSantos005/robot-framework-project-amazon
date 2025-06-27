@@ -85,4 +85,9 @@ Após a execução, são gerados automaticamente:
 ## 🔐 Observação
 
 O fluxo de login é interrompido pela exibição de CAPTCHA pelo site da Amazon. Este cenário foi tratado como **não automatizável** e está devidamente documentado.
+Utilize o navegador **Google Chrome** para melhor compatibilidade.
+Na pasta .vscode abrir o arquivo settings.json e substituir o caminho para o python.exe
 
+## Autor
+
+Antonio de Sousa – [LinkedIn](https://www.linkedin.com/in/antoniosousas/)
