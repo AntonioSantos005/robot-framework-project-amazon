@@ -1,5 +1,5 @@
 {
-  "robot.language-server.python": "c:\\Users\\Dantas\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "robot.language-server.python": "c:\\Users\\<SeuUsuario>\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
   "robot.language-server.libraries": ["SeleniumLibrary"],
   "robot.lint.enabled": true,
   "robot.variables": {
